@@ -11,6 +11,7 @@
 		852ED3A02C5C689E0065225F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 852ED39F2C5C689E0065225F /* ContentView.swift */; };
 		852ED3A22C5C68A10065225F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 852ED3A12C5C68A10065225F /* Assets.xcassets */; };
 		852ED3A52C5C68A10065225F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 852ED3A42C5C68A10065225F /* Preview Assets.xcassets */; };
+		852ED3AC2C5C73E00065225F /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 852ED3AB2C5C73E00065225F /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		852ED39F2C5C689E0065225F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		852ED3A12C5C68A10065225F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		852ED3A42C5C68A10065225F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		852ED3AB2C5C73E00065225F /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				852ED39D2C5C689E0065225F /* SwiftfulSourceControlApp.swift */,
 				852ED39F2C5C689E0065225F /* ContentView.swift */,
+				852ED3AB2C5C73E00065225F /* HomeView.swift */,
 				852ED3A12C5C68A10065225F /* Assets.xcassets */,
 				852ED3A32C5C68A10065225F /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				852ED3AC2C5C73E00065225F /* HomeView.swift in Sources */,
 				852ED3A02C5C689E0065225F /* ContentView.swift in Sources */,
 				852ED39E2C5C689E0065225F /* SwiftfulSourceControlApp.swift in Sources */,
 			);
