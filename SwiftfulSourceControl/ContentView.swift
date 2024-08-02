@@ -14,6 +14,10 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("Love You, Mom!")
+            
+            Button("Click me!") {
+                
+            }
         }
         .padding()
     }
