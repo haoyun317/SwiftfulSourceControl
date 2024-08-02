@@ -33,6 +33,10 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Love You, Mom!")
             
+            Button("Subscribe") {
+                
+            }
+            
             Button("Click me again!") {
                 
             }
