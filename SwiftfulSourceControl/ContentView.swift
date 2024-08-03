@@ -10,6 +10,8 @@
  Commit = Save "checkpoint" on our current branch 在當前分支上保存（"檢查點
  Stage = Prepare changes for a commit 為提交準備修改
  Stash = Save changes for Later 保存更改，以備日後使用
+ Push = Send local commits to remote repo
+ Pull = Fetch remote commits to local repo
  
  COMMIT MESSAGES
  
