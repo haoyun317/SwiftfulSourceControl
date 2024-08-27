@@ -41,7 +41,7 @@ struct ContentView: View {
             Text("Love You, Mom!")
             Text("Swiftful Thinking!")
             
-            Button("Subscribe") {
+            Button("Subscribe now!") {
                 
             }
             
